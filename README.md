@@ -2,7 +2,7 @@
 
 # ⚡ ChatterlyAI Agentic
 
-**ChatterlyAI-Agentic** is the dedicated agentic layer for the main **ChatterlyAI** open-source project.  
+**ChatterlyAI_Agentic** is the dedicated agentic layer for the main **ChatterlyAI** open-source project.  
 This repository focuses on building autonomous AI agents, workflows, and backend logic using **CrewAI** and **Gemini**, powering advanced reasoning, planning.
 
 It acts as the **brains** behind ChatterlyAI — modular, extendable, and production-oriented.
